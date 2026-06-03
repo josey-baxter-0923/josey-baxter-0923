@@ -136,9 +136,9 @@ Workflow automation platform for job discovery and application management.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=josey-baxter-0923&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josey-baxter-0923&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,7 +148,7 @@ Workflow automation platform for job discovery and application management.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josey-baxter-0923&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
